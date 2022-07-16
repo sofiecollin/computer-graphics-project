@@ -1,0 +1,54 @@
+# Blender MTL File: 'Room.blend'
+# Material Count: 5
+
+newmtl Floor
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/hampus/Documents/Blender/Textures/paving-floor-stylized-texture-v1/PavingFloor_D.tga
+
+newmtl FrontWall
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/hampus/Documents/Blender/Textures/Stone_Wall_013_SD/Stone_Wall_013_Albedo.jpg
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl Pillar_Foundation.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/hampus/Documents/Blender/Textures/Cliff_Rock_002_SD/Cliff_Rock_002_baseColor.jpg
+
+newmtl Stone_Pillar
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/hampus/Documents/Blender/Textures/Stone_Column_001_SD/Stone_Column_001_basecolor.jpg

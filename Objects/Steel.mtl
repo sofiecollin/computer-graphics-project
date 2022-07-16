@@ -1,0 +1,34 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl Bronze
+Ns 241.499998
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.449667 0.449667 0.449667
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/hampus/Documents/TSBK07/Project/tsbk07-datagrafik-projekt/Textures/BRONZE~1.JPG
+
+newmtl LAMP150_-_Stainless_Steel
+Ns 64.859996
+Ka 1.000000 1.000000 1.000000
+Kd 0.486300 0.482400 0.482400
+Ks 0.512433 0.512433 0.512433
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/hampus/Documents/TSBK07/Project/tsbk07-datagrafik-projekt/Textures/STEEL(~1.JPG
+
+newmtl LAMP150_-_Wick
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.141200 0.129400 0.129400
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
